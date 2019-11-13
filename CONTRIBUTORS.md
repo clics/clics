@@ -21,7 +21,7 @@ Authors | Title | Reference
 List, Terhalle, and Urban | Using network approaches to enhance the analysis of cross-linguistic polysemies | [List2013a](https://digling.org/evobib/?bibtex=List2013a)
 Mayer, List, Terhalle, and Urban | An Interactive Visualization of Crosslinguistic Colexification Patterns | [Mayer2014](https://digling.org/evobib/?bibtex=Mayer2014)
 List, Greenhill, Anderson, Mayer, Tresoldi, and Forkel | CLICS². An improved database of cross-linguistic colexifications assembling lexical data with help of cross-linguistic data formats | [List2018e](https://digling.org/evobib/?bibtex=List2018e)
-Tresoldi, Rzymski et al. | The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies | [PREPRINT](http://doi.org/10.17613/5awv-6w15)
+Rzymski, Tresoldi, et al. | The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies | [PREPRINT](http://doi.org/10.17613/5awv-6w15)
 
 
 ## Grant information
