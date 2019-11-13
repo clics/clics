@@ -69,3 +69,6 @@ Carolin Hundt    | GC | 3.0
 Sergei Monakhov  | GC | 3.0 
 Kristina Pianykh | GCDig | 3.0 
 Sallona Ramesh   | GC | 3.0 
+Abbie Hantgan | GCDigS | 3.0
+Timotheus A. Bodt | GCDigS | 3.0
+Yunfan Lai | GCDig | 3.0
