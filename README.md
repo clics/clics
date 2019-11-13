@@ -23,3 +23,8 @@ CLICS | Mayer, List, Terhalle, and Urban | An Interactive Visualization of Cross
 CLICS² | List, Greenhill, Anderson, Mayer, Tresoldi, and Forkel | CLICS². An improved database of cross-linguistic colexifications assembling lexical data with help of cross-linguistic data formats | [List2018e](https://digling.org/evobib/?bibtex=List2018e)
 CLICS³ | Rzymski, Tresoldi, et al. | The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies | [PREPRINT](https://doi.org/10.17613/5awv-6w15)
 
+
+## Contributors
+
+Find information about contributors and grants on [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
+
