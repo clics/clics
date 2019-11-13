@@ -11,8 +11,8 @@ Period    | Name
 2018-     | Robert Forkel
 2018-     | Simon Greenhill
 2018-     | Tiago Tresoldi
-2019-     | Christoph Rzymski
 2018-2019 | Cormac Anderson
+2019-     | Christoph Rzymski
 
 ## Papers presenting different versions of CLICS
 
@@ -51,24 +51,24 @@ For all this help, we are very grateful and express our gratitude.
 
 Name | Contribution | Version |
 --- | --- | --- |
-Mei-Shin Wu | GCD | 3.0
-Nathanael E. Schweikhard | GC | 3.0
-Volker Gast | T | 3.0
-Maria Koptjevskaja-Tamm | T | 3.0 
-Gereon A. Kaiping | GCD | 3.0
-Sophie Chang | Dig | 3.0
-Natalia Morozova | GCDig | 3.0
-Heini Arjava | GC | 3.0 
-Nataliia Hübler | GC | 3.0 
-Ezequiel Koile | GC | 3.0
-Steve Pepper | GC | 3.0 
-Mariann Proos | GC | 3.0
-Briana Van Epps  | GC | 3.0 
-Ingrid Blanco    | GC | 3.0 
-Carolin Hundt    | GC | 3.0 
-Sergei Monakhov  | GC | 3.0 
-Kristina Pianykh | GCDig | 3.0 
-Sallona Ramesh   | GC | 3.0 
 Abbie Hantgan | GCDigS | 3.0
+Briana Van Epps  | GC | 3.0 
+Carolin Hundt    | GC | 3.0 
+Ezequiel Koile | GC | 3.0
+Gereon A. Kaiping | GCD | 3.0
+Heini Arjava | GC | 3.0 
+Ingrid Blanco    | GC | 3.0 
+Kristina Pianykh | GCDig | 3.0 
+Maria Koptjevskaja-Tamm | T | 3.0 
+Mariann Proos | GC | 3.0
+Mei-Shin Wu | GCD | 3.0
+Natalia Morozova | GCDig | 3.0
+Nataliia Hübler | GC | 3.0 
+Nathanael E. Schweikhard | GC | 3.0
+Sallona Ramesh   | GC | 3.0 
+Sergei Monakhov  | GC | 3.0 
+Sophie Chang | Dig | 3.0
+Steve Pepper | GC | 3.0 
 Timotheus A. Bodt | GCDigS | 3.0
+Volker Gast | T | 3.0
 Yunfan Lai | GCDig | 3.0
