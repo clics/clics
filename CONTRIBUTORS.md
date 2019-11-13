@@ -2,17 +2,17 @@
 
 ## Editors
 
-Period    | Name
----       | ---
-2014-     | Johann Mattis List
-2014-2018 | Anselm Terhalle
-2014-2018 | Matthias Urban
-2014-2019 | Thomas Mayer
-2018-     | Robert Forkel
-2018-     | Simon Greenhill
-2018-     | Tiago Tresoldi
-2018-2019 | Cormac Anderson
-2019-     | Christoph Rzymski
+Period    | Name | Initials
+---       | --- | ---
+2014-     | Johann Mattis List | JML
+2014-2018 | Anselm Terhalle | AT
+2014-2018 | Matthias Urban | MU
+2014-2019 | Thomas Mayer | TM
+2018-     | Robert Forkel | RF
+2018-     | Simon J. Greenhill | SJG
+2018-     | Tiago Tresoldi | TT
+2018-2019 | Cormac Anderson | CA
+2019-     | Christoph Rzymski | CR
 
 
 ## Grant information
