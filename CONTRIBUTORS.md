@@ -14,15 +14,6 @@ Period    | Name
 2018-2019 | Cormac Anderson
 2019-     | Christoph Rzymski
 
-## Papers presenting different versions of CLICS
-
-Authors | Title | Reference 
---- | --- | ---
-List, Terhalle, and Urban | Using network approaches to enhance the analysis of cross-linguistic polysemies | [List2013a](https://digling.org/evobib/?bibtex=List2013a)
-Mayer, List, Terhalle, and Urban | An Interactive Visualization of Crosslinguistic Colexification Patterns | [Mayer2014](https://digling.org/evobib/?bibtex=Mayer2014)
-List, Greenhill, Anderson, Mayer, Tresoldi, and Forkel | CLICS². An improved database of cross-linguistic colexifications assembling lexical data with help of cross-linguistic data formats | [List2018e](https://digling.org/evobib/?bibtex=List2018e)
-Rzymski, Tresoldi, et al. | The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies | [PREPRINT](http://doi.org/10.17613/5awv-6w15)
-
 
 ## Grant information
 
@@ -49,26 +40,27 @@ While the first CLICS database was based on three datasets alone, advanced appro
 
 For all this help, we are very grateful and express our gratitude.
 
-Name | Contribution | Version |
---- | --- | --- |
-Abbie Hantgan | GCDigS | 3.0
-Briana Van Epps  | GC | 3.0 
-Carolin Hundt    | GC | 3.0 
-Ezequiel Koile | GC | 3.0
-Gereon A. Kaiping | GCD | 3.0
-Heini Arjava | GC | 3.0 
-Ingrid Blanco    | GC | 3.0 
-Kristina Pianykh | GCDig | 3.0 
-Maria Koptjevskaja-Tamm | T | 3.0 
-Mariann Proos | GC | 3.0
-Mei-Shin Wu | GCD | 3.0
-Natalia Morozova | GCDig | 3.0
-Nataliia Hübler | GC | 3.0 
-Nathanael E. Schweikhard | GC | 3.0
-Sallona Ramesh   | GC | 3.0 
-Sergei Monakhov  | GC | 3.0 
-Sophie Chang | Dig | 3.0
-Steve Pepper | GC | 3.0 
-Timotheus A. Bodt | GCDigS | 3.0
-Volker Gast | T | 3.0
-Yunfan Lai | GCDig | 3.0
+Name | Contribution | Version
+--- | --- | ---
+Abbie Hantgan | GCDigS | CLICS³
+Briana Van Epps  | GC | CLICS³
+Carolin Hundt    | GC | CLICS³
+Ezequiel Koile | GC | CLICS³
+Gereon A. Kaiping | GCD | CLICS³
+Heini Arjava | GC | CLICS³
+Ingrid Blanco    | GC | CLICS³ 
+Kristina Pianykh | GCDig | CLICS³
+Maria Koptjevskaja-Tamm | T | CLICS³ 
+Mariann Proos | GC | CLICS³
+Mei-Shin Wu | GCD | CLICS³
+Natalia Morozova | GCDig | CLICS³
+Nataliia Hübler | GC | CLICS³
+Nathanael E. Schweikhard | GC | CLICS³
+Sallona Ramesh   | GC | CLICS³
+Sergei Monakhov  | GC | CLICS³
+Sophie Chang | Dig | CLICS³
+Steve Pepper | GC | CLICS³
+Timotheus A. Bodt | GCDigS | CLICS³
+Volker Gast | T | CLICS³
+Yunfan Lai | GCDig | CLICS³
+
