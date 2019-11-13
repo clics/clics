@@ -1,2 +1,3 @@
-# clics
-Cross-Linguistic Colexifications
+# CLICS - The Database of Cross-Linguistic Colexifications
+
+
