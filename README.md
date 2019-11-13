@@ -24,6 +24,19 @@ CLICS² | List, Greenhill, Anderson, Mayer, Tresoldi, and Forkel | CLICS². An i
 CLICS³ | Rzymski, Tresoldi, et al. | The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies | [PREPRINT](https://doi.org/10.17613/5awv-6w15)
 
 
+## Datasets and Software
+
+Datasets providing lexical data aggregated in CLICS and software tooling the CLICS
+processing workflow is accesible and archived on Zenodo via the
+[CLICS community](https://zenodo.org/communities/clics).
+
+
+## Web application
+
+Since CLICS², the latest release of the CLICS database and colexification network can be explored in a
+[`clld`](https://github.com/clld/clld) application at [clics.clld.org](https://clics.clld.org).
+
+
 ## Contributors
 
 Find information about contributors and grants on [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
