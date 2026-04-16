@@ -9,10 +9,11 @@ Period    | Name | Initials
 2014-2018 | Matthias Urban | MU
 2014-2019 | Thomas Mayer | TM
 2018-     | Robert Forkel | RF
-2018-     | Simon J. Greenhill | SJG
-2018-     | Tiago Tresoldi | TT
+2018-2019 | Simon J. Greenhill | SJG
+2018-2019 | Tiago Tresoldi | TT
 2018-2019 | Cormac Anderson | CA
 2019-     | Christoph Rzymski | CR
+2025-     | Annika Tjuka | AT
 
 
 ## Grant information
