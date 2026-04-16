@@ -12,6 +12,8 @@ the CLDF initiative and novel approaches for fast, efficient, and
 reliable data aggregation, [CLICS²](https://github.com/clics/clics2) expanded the original CLICS database.
 [CLICS³](https://github.com/clics/clics3) - the third installment of CLICS - exploits the framework pioneered in CLICS²
 to more than double the amount of data aggregated in the database.
+CLICS⁴ adds even more data and improves upon CLICS³ in several ways, described in
+[Tjuka et al. 2025](https://doi.org/10.48550/arXiv.2503.11377).
 
 
 ## Publications
@@ -22,6 +24,7 @@ CLICS | List, Terhalle, and Urban | Using network approaches to enhance the anal
 CLICS | Mayer, List, Terhalle, and Urban | An Interactive Visualization of Crosslinguistic Colexification Patterns | [Mayer2014](https://digling.org/evobib/?bibtex=Mayer2014)
 CLICS² | List, Greenhill, Anderson, Mayer, Tresoldi, and Forkel | CLICS². An improved database of cross-linguistic colexifications assembling lexical data with help of cross-linguistic data formats | [List2018e](https://digling.org/evobib/?bibtex=List2018e)
 CLICS³ | Rzymski, Tresoldi, et al. | The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies | [PREPRINT](https://doi.org/10.17613/5awv-6w15)
+CLICS⁴ | Tjuka et al. | Advancing the Database of Cross-Linguistic Colexifications with New Workflows and Data | [PREPRINT](https://doi.org/10.48550/arXiv.2503.11377)
 
 
 ## Datasets and Software
